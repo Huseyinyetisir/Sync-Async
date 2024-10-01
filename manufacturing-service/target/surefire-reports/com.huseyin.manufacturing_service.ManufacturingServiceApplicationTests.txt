@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: com.huseyin.manufacturing_service.ManufacturingServiceApplicationTests
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 4.121 s -- in com.huseyin.manufacturing_service.ManufacturingServiceApplicationTests
